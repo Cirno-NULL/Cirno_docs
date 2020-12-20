@@ -1,6 +1,6 @@
 # 主页
 
-![](.gitbook/assets/⑨.png)
+![](/pics/⑨.png)
 
 ## 挖一个坑,埋坑时间咕咕咕
 
