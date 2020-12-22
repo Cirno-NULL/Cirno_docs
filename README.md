@@ -29,7 +29,7 @@
 * 额外插件：无
 * 外置指令：有
 * 是否原创：否
-* 核心版本：`Dice! by Dice-Developer-Team 仑质 Ver 2.5.1CHAOS3.Oliva.1.2.11(574)[MSVC 1927 Dec 13 2020 00:48:52 For Mirai]`
+* 核心版本：`OlivaDice(DIXE) by Dice-Developer-Team 仑质 Ver 2.5.2CHAOS4.Oliva.1.2.12(575)[MSVC 1927 Dec 23 2020 01:33:59 For Mirai]`
 {% endtab %}
 
 {% tab title="联系方式" %}
@@ -58,7 +58,9 @@
 {% hint style="success" %}
 感谢[https://wiki.dice.center/](https://wiki.dice.center/)提供的骰娘搭建方法
 
-感谢[https://dice.org.cn/](https://dice.org.cn/)提供的免费二级域名\(目前使用的是自己的域名了\)
+感谢[https://dice.org.cn](https://dice.org.cn/)在前期提供的免费二级域名
+
+目前使用的是自己的nullkun.xyz
 {% endhint %}
 {% endtab %}
 {% endtabs %}
