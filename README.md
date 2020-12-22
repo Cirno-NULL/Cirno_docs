@@ -4,7 +4,7 @@
 
 
 
-这里是琪露诺的雾之湖ovo
+## 这里是琪露诺的雾之湖ovo
 
 {% hint style="info" %}
 如需添加好友，可以直接点击本文中蓝色链接  
@@ -48,6 +48,10 @@
 * 若无意外，本骰娘运行时间为**`7*24小时`**。
 * 如果出现无响应或超长延迟情况请及时联系维护组。 
 {% endhint %}
+{% endtab %}
+
+{% tab title="备用手册入口" %}
+[https://null-cirno.gitbook.io/cirnonull/](https://null-cirno.gitbook.io/cirnonull/)
 {% endtab %}
 {% endtabs %}
 
