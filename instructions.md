@@ -32,7 +32,7 @@
 {% endtab %}
 {% endtabs %}
 
-{% hint style="warning" %}
+{% hint style="info" %}
 注意：开关本项功能请让群管在群内at琪露诺使用.plugin on/off
 
 .plugin off以后如果想不打开继续使用请手动@后接指令
