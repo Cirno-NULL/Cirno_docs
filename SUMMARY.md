@@ -4,4 +4,5 @@
 * [使用协议](user-agreement.md)
 * [牌堆列表](decklist.md)
 * [外置指令列表](instructions.md)
+* [扩展帮助](mod.md)
 
