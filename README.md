@@ -53,9 +53,13 @@
 {% tab title="备用手册入口" %}
 [https://null-cirno.gitbook.io/cirnonull/](https://null-cirno.gitbook.io/cirnonull/)
 {% endtab %}
-{% endtabs %}
 
-{% hint style="info" %}
-核心来源与搭建方法：[https://wiki.dice.center/](https://wiki.dice.center/)
+{% tab title="致谢" %}
+{% hint style="success" %}
+感谢[https://wiki.dice.center/](https://wiki.dice.center/)提供的骰娘搭建方法
+
+感谢[https://dice.org.cn/](https://dice.org.cn/)提供的免费二级域名
 {% endhint %}
+{% endtab %}
+{% endtabs %}
 
