@@ -58,7 +58,7 @@
 {% hint style="success" %}
 感谢[https://wiki.dice.center/](https://wiki.dice.center/)提供的骰娘搭建方法
 
-感谢[https://dice.org.cn](https://dice.org.cn/)在前期提供的免费二级域名
+感谢[https://dice.org.cn](https://dice.org.cn/)在前期提供的免费二级域名**dice.chat**
 
 目前使用的是自己的nullkun.xyz
 {% endhint %}
