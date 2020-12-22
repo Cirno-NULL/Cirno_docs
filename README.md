@@ -51,11 +51,15 @@
 {% endtab %}
 
 {% tab title="备用手册入口" %}
-[https://null-cirno.gitbook.io/cirnonull/](https://null-cirno.gitbook.io/cirnonull/)
+{% embed url="https://null-cirno.gitbook.io/cirnonull/" %}
+{% endtab %}
+
+{% tab title="致谢" %}
+{% hint style="success" %}
+感谢[https://wiki.dice.center/](https://wiki.dice.center/)提供的骰娘搭建方法
+
+感谢[https://dice.org.cn/](https://dice.org.cn/)提供的免费二级域名\(目前使用的是自己的域名了\)
+{% endhint %}
 {% endtab %}
 {% endtabs %}
-
-{% hint style="info" %}
-核心来源与搭建方法：[https://wiki.dice.center/](https://wiki.dice.center/)
-{% endhint %}
 
