@@ -4,7 +4,7 @@
 
 {% tabs %}
 {% tab title="怪物之锤" %}
-| 具体抽取词条： | 具体抽取词条 |
+| 具体help词条 | 具体help词条 |
 | :--- | :--- |
 | 生物分类 |  |
 | 传说生物 | 唯一存在介绍 |
@@ -23,12 +23,37 @@
 .help 生物分类
 .help hom 奈亚拉托提普
 ```
+
+{% hint style="info" %}
+Mod作者：魔骨，NULL，Dr.Amber
+{% endhint %}
 {% endtab %}
 
 {% tab title="法术大典" %}
-| 目录待完成 |
-| :--- |
-|  |
+| 具体help词条 | 具体help词条 |
+| :--- | :--- |
+| 深层魔法 | 缺陷魔法 |
+| 传统魔法解释 | 幻梦境魔法解释 |
+| 分类 |  |
+| 驱逐和控制 | 召唤怪物和神祇 |
+| 战斗魔法 | 交流魔法 |
+| 幻梦境魔法 | 附魔魔法 |
+| 环境魔法 | 传统魔法 |
+| 加害魔法 | 支配他人 |
+| 制造怪物 | 其他法术 |
+| 保护魔法 | 时间相关魔法 |
+| 变形魔法 | 旅行和交通 |
+| coc 具体法术名称 |  |
+
+```text
+例：
+.help 深层魔法
+.help coc 被诅咒的眼
+```
+
+{% hint style="info" %}
+Mod作者：魔骨，NULL，Dr.Amber
+{% endhint %}
 {% endtab %}
 
 {% tab title="道德经" %}
@@ -42,6 +67,10 @@
 例：
 .help 道德经第九章
 ```
+
+{% hint style="info" %}
+Mod作者：NULL
+{% endhint %}
 {% endtab %}
 
 {% tab title="幻星集塔罗牌" %}
@@ -57,6 +86,10 @@
 例：
 .help 愚者正位
 ```
+
+{% hint style="info" %}
+Mod作者：NULL
+{% endhint %}
 {% endtab %}
 {% endtabs %}
 
