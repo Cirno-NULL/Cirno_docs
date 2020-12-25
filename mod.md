@@ -1,6 +1,6 @@
 # 扩展帮助
 
-![](.gitbook/assets/⑨.png)
+![](.gitbook/assets/sheng-dan-mao-qi-lou-nuo-.png)
 
 {% tabs %}
 {% tab title="怪物之锤" %}

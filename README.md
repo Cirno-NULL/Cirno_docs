@@ -1,6 +1,6 @@
 # 雾之湖入口&联系方式
 
-![](.gitbook/assets/⑨.png)
+![](.gitbook/assets/sheng-dan-mao-qi-lou-nuo-.png)
 
 
 
