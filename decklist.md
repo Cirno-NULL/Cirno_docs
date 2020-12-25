@@ -1,6 +1,6 @@
 # 外置牌堆列表
 
-![](.gitbook/assets/sheng-dan-mao-qi-lou-nuo-.png)
+![](.gitbook/assets/⑨.png)
 
 {% hint style="info" %}
 牌堆抽取方法：.draw+空格+你想要抽取的牌堆
