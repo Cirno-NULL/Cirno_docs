@@ -51,7 +51,9 @@
 {% endtab %}
 
 {% tab title="备用手册入口" %}
-{% embed url="https://null-cirno.gitbook.io/cirnonull/" %}
+{% hint style="info" %}
+[null-cirno.gitbook.io/cirnonull](https://null-cirno.gitbook.io/cirnonull)
+{% endhint %}
 {% endtab %}
 
 {% tab title="致谢" %}
