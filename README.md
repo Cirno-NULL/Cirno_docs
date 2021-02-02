@@ -7,8 +7,6 @@ description: 2021元旦快乐!
 ![](.gitbook/assets/⑨.png)
 
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/Cirno-NULL/Cirno_docs?label=%E6%9C%AC%E6%89%8B%E5%86%8C%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E4%BA%8E&style=flat-square)](https://github.com/Cirno-NULL/Cirno_docs)
-
 ## 这里是琪露诺的雾之湖ovo
 
 {% hint style="info" %}
@@ -16,7 +14,8 @@ description: 2021元旦快乐!
 琪露诺会**`不定时清理闲置群聊`**  
 且**`不允许`**邀请进入**`跑团无关`**群聊  
 使用时默认您已阅读完毕**`使用协议`**相关内容并同意遵守  
-如有违反，琪露诺**`有权对您停止服务`**
+如有违反，琪露诺**`有权对您停止服务`**  
+[![GitHub last commit](https://img.shields.io/github/last-commit/Cirno-NULL/Cirno_docs?label=%E6%9C%AC%E6%89%8B%E5%86%8C%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E4%BA%8E&style=flat-square)](https://github.com/Cirno-NULL/Cirno_docs)
 {% endhint %}
 
 {% tabs %}
