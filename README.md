@@ -7,6 +7,7 @@ description: 2021元旦快乐!
 ![](.gitbook/assets/⑨.png)
 
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/Cirno-NULL/Cirno_docs?label=%E6%9C%AC%E6%89%8B%E5%86%8C%E6%9C%80%E5%90%8E%E6%9B%B4%E6%96%B0%E4%BA%8E&style=flat-square)](https://github.com/Cirno-NULL/Cirno_docs)
 
 ## 这里是琪露诺的雾之湖ovo
 
