@@ -1,11 +1,10 @@
 ---
-description: 2021元旦快乐!
+description: 2021新年快乐!
 ---
 
 # 雾之湖入口&联系方式
 
 ![](.gitbook/assets/⑨.png)
-
 
 ## 这里是琪露诺的雾之湖ovo
 
