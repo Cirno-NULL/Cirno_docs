@@ -6,6 +6,12 @@ description: 2021新年快乐!
 
 ![](.gitbook/assets/⑨.png)
 
+{% hint style="info" %}
+网站域名迁移至[cirno.nullkun.icu](https://cirno.nullkun.icu/)
+
+[cirno.nullkun.xyz](https://cirno.nullkun.xyz)将于2022年1月弃用
+{% endhint %}
+
 ## 这里是琪露诺的雾之湖ovo
 
 {% hint style="info" %}
