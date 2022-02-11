@@ -33,7 +33,7 @@ description: 2021新年快乐!
 * 额外插件：无
 * 外置指令：有
 * 是否原创：否
-* 核心版本：`OlivaDice(DIXE) by Dice-Developer-Team 仑质 Ver 2.5.2CHAOS4.Oliva.1.2.12(575)[MSVC 1927 Dec 23 2020 01:33:59 For Mirai]`
+* 核心版本：`OlivaDice By lunzhiPenxil Ver.3.1.9(1019) [Python 3.7.5 For OlivOS 0.9.1]`
 {% endtab %}
 
 {% tab title="联系方式" %}
